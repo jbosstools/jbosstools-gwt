@@ -4,6 +4,8 @@
 
 GWT Tools provides an Eclipse Web Tools Facet for Google Web Toolkit.
 
+**NOTE: This project is deprecated, and will likely be removed from JBoss Tools at some point in the future.**
+
 ## Install
 
 _GWT Tools_ is part of [JBoss Tools](http://jboss.org/tools) from
